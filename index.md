@@ -32,7 +32,7 @@ Patience is key in life.
 
 ## 📝 Publications
 
-1. **QTY Vis: Visual Analytics System for Multidimensional E-commerce Product Inventory Time Series Data**: Yan Chen, <u>Liu Liu</u>, Wanting Fu, Zhengjie Qin, Haibo Hu
+1. **QTY Vis: Visual Analytics for Multi-dimensional E-commerce Product Interactive Inventory Optimization Method Based on Product Clusters**: Yan Chen, <u>Liu Liu</u>, Wanting Fu, Zhengjie Qin, Haibo Hu
 
 
 ## 😎 Related Links

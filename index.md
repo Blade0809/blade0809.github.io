@@ -28,7 +28,7 @@ Patience is key in life.
 ## 📚 Education
 
 * **2021.9 - Present** Chongqing University, Chongqing, China, B.S. in Data Science and Mathematics
-* **2023.2 - 2023.6** Chinese University of Hong Kong, Hong Kong, Exchange Student
+* **2023.6 - 2023.8** Chinese University of Hong Kong, Hong Kong, Exchange Student
 
 ## 📝 Publications
 

@@ -8,15 +8,15 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'DS_notes', link: '/markdown-examples' }
+      { text: 'DS_notes', link: '/Kafka' }
     ],
 
     sidebar: [
       {
         text: 'DS_notes',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Kafka', link: '/Kafka' },
+          { text: 'NLP', link: '/NLP' }
         ]
       }
     ],

@@ -19,7 +19,7 @@ outline: false
 </div>
 
 
-My research interests focus on visualization and visual analytics and natural language processing. In addtion, I also have some interest in the analytical aspect of mathematics.
+My research interests focus on reinforcement learning, convex optimization and machine learning. My recent interest is diffusion and decision task algorithm.
 
 I am a fan of NBA games, R&B music and novels.
 
@@ -27,8 +27,9 @@ Patience is key in life.
 
 ## 📚 Education
 
-* **2021.9 - Present** Chongqing University, Chongqing, China, B.S. in Data Science and Mathematics
+* **2021.9 - Present** Chongqing University, Chongqing, China, B.S. in Data Science and a double major in Mathematics
 * **2023.6 - 2023.8** Chinese University of Hong Kong, Hong Kong, Exchange Student
+* **2024.9 - 2025.9** ShanghaiTech University, Shanghai, China, Visiting student
 
 ## 📝 Publications
 

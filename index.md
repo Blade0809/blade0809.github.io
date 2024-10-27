@@ -21,7 +21,7 @@ outline: false
 
 My research interests focus on reinforcement learning, convex optimization and machine learning. My recent interest is diffusion and decision task algorithm.
 
-I am a fan of NBA games, R&B music and novels.
+I am a fan of NBA games and R&B music.
 
 Patience is key in life.
 

@@ -12,7 +12,7 @@ outline: false
   <div style="display: flex; align-items: center; justify-content: center; flex-direction: column; width: 70%; text-align: center; height: 200px;">
     <h1 style="font-weight: bold; margin-top: 0; margin-bottom: 0;">Leo</h1>
     <br>
-    <div>B.S. in Data Science and Mathematics</div>
+    <div>B.S. in Data Science and a doublr major in Mathematics</div>
     <a href="http://www.cqu.edu.cn">Chongqing University</a>
     <div>20215316@stu.cqu.edu.cn</div>
   </div>
